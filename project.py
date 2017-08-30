@@ -1,6 +1,5 @@
-# Qiwi Wallet
 # 15.07.2017
-# Андрей Малых
+# Andrew Malih
 from datetime_out import datetime_out
 from random import randint
 from random import choice
